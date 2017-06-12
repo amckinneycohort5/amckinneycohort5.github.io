@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+	    <div id="header">
+	        <h2>
+	        Antoinne M. McKinney
+	        </h2>
+	        <p id="links">
+	       Email:<a href="mailto: antoinnemckinney@gmail.com">antoinnemckinney@gmail.com</a>
+	        LinkedIn Profile: <a href="http://linkedin.com/in/antoinnemmckinney">linkedin.com/in/antoinnemmckinney</a>
+	        </p>
+	    </div>
+	    <div id="content">
+	        <div class="left"></div>
+	        <div class="right">
+	            <h3>OBJECTIVE</h3>
+	                <p>To become a Java Web Applications programmer for database management and website development.</p>
+	            <h3>EDUCATION</h3>
+	                <p>Tech Elevator - Cleveland, OH (Summer 2017 Cohort)</p>
+	                    <ul>
+	                        <li>Java Web Applications Development Bootcamp</li>
+	                        <li>Coding Languages: CSS3, HTML5, Javascript, PHP, JSP, ASP</li>
+	                    </ul>
+	                <p>Cleveland State University - Cleveland, OH (May 2012)</p>
+	                    <ul>
+	                        <li>Bachelor of Arts in Urban Studies</li>
+	                        <li>Concentration: Urban Planning</li>
+	                    </ul>
+	            <h3>EXPERIENCE</h3>
+	                <p>FirstGen Center of Notre Dame College (September 2015 - Present)
+	                    <ul>
+	                        <li>Provide administrative assistance with database management</li>
+	                        <li>Support freshman students as a Resiliency Coach</li>
+	                    </ul>
+	                </p>
+	                <p>St. Martin de Porres Family Center, Catholic Charities (June 2014 - April 2017)
+	                    <ul>
+	                        <li>Family Advocate for the Tapestry Systems of Care program</li>
+	                        <li>Manage social media websites</li>
+	                    </ul>
+	                </p>
+	                <p>Safeguard Properties (July 2012 - June 2014)
+	                    <ul>
+	                        <li>Code Compliance Coordinator</li>
+	                        <li>Vacant Property Registration Administrative Assistant</li>
+	                    </ul>
+	                </p>
+	            <h3>SKILLS</h3>
+	                <ul>
+	                    <li>Microsoft Office Suite</li>
+	                    <li>Adobe Creative Cloud (Premiere, Acrobat, InDesign, Dreamweaver)</li>
+	                    <li>Autodesk AutoCAD</li>
+	            </ul>	            
+	            <h3>AFFILIATIONS</h3>
+	                <ul>
+	                <li>Young A.D.U.L.T.S. Inc. (2005-Present)</li>
+	                <li>Stonebrook Montessori (2014-Present)</li>
+	            </ul>	            
+	            <h3>REFERENCES</h3>
+	                <p>Available Upon Request.</p>
+	        </div>
+	    </div>     
+	    <div id="footer">
+	     <P>PO Box 21394, Cleveland, OH 44121 |        
+	        Direct: (216) 647-1630</P>
+	    </div>
+	</body>
+</html>
